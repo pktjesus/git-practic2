@@ -16,5 +16,9 @@ git add . -> 현재 디렉토리(폴더)의 모든 새로 생성된 파일을 co
 
 git commit -m '메시지 내용' -> git 로컬에 반영(스냅샵, 해시 생성)
 
+git remote add origin 원격저장지주소repostory: 원격 저장소(github 등)을 등록
+
 git push -> 로컬 작업한 commit의 내용을 원격저장소(github)에 저장
 git pull: 원격저장소에 있는 내용들을 전부 로컬git에 저장(+ local에 있는 내용들이랑 merge)
+
+
