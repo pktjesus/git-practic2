@@ -8,6 +8,9 @@ ex) 1일차: html, css, javascript 코드 작성
      3일차: sql작성
 github: git을 이용해서 클라우드 관리할 수 있게 해주는 사이트
 
+git config --global user.email teacher@naver.com -> git에 내가 누구인지 세팅1
+git config --global user.name teacher -> git에 내가 누구인지 세팅2
+
 git init -> 로컬pc에 git설정 세팅
 
 git add 파일명1 -> 새로 생성된 파일명1을 commit할 수 있도록 Staged Area에 등록
@@ -20,5 +23,6 @@ git remote add origin 원격저장지주소repostory: 원격 저장소(github �
 
 git push -> 로컬 작업한 commit의 내용을 원격저장소(github)에 저장
 git pull: 원격저장소에 있는 내용들을 전부 로컬git에 저장(+ local에 있는 내용들이랑 merge)
+
 
 
