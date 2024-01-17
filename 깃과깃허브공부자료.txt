@@ -39,9 +39,9 @@ origin: 원격에서 사용하는 최상위 원격 브랜치명
 HEAD: 현재 작업 브랜치의 위치
 checkout: 브랜치와 브랜치 사이를 이동
 
-git 충돌(confilct)
-  - 
-
+git 충돌(confilct) 해결: 서로 다른 브랜치에서 같은 파일 혹은 같은 줄의 있는 내용들을 바꿀 때 주로 발생.
+git pull request(remote merge): gihub에서 remote 브랜치들을 merge해 주는 기능
+  
 webpage url -> 닉네임.github.io/레포지토리이름
 
 https://heropcode.github.io/GitHub-Responsive/img/logo.svg
