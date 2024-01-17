@@ -33,6 +33,7 @@ git branch -d 브랜치명:  로컬 브랜치명을 삭제하는 명령어
 
 
 git checkout 브랜치명: 브랜치명으로 작업영역을 변경
+git checkout -b 만들브랜치명: 만들브랜치명이 만들어지고 바로 만들브랜치명으로 checkout해줌
 
 origin: 원격에서 사용하는 최상위 원격 브랜치명
 HEAD: 현재 작업 브랜치의 위치
