@@ -39,6 +39,9 @@ origin: 원격에서 사용하는 최상위 원격 브랜치명
 HEAD: 현재 작업 브랜치의 위치
 checkout: 브랜치와 브랜치 사이를 이동
 
+git 충돌(confilct)
+  - 
+
 webpage url -> 닉네임.github.io/레포지토리이름
 
 https://heropcode.github.io/GitHub-Responsive/img/logo.svg
